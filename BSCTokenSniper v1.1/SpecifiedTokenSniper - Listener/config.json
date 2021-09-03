@@ -1,6 +1,5 @@
 {
-  "walletAddress": "0xD76b768DC51025528E9aF483aAB6D8c8a38beFeA",
-   "walletPrivateKey":"bfc01fb6afd82960de1b866ce393f9b90eb287d08b286752eee6905c71c619af",
+
    "pancakeSwapRouterAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
    "amountToSpendPerSnipe": "0.05",
    "transactionRevertTimeSeconds": "10000",

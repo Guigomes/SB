@@ -1,5 +1,5 @@
 {
-  
+
    "pancakeSwapRouterAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
    "amountToSpendPerSnipe": "0.005",
    "transactionRevertTimeSeconds": "10000",

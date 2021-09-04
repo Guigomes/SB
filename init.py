@@ -17,9 +17,12 @@ while value != "1" and value != "2" and value != "3":
         print("scanner")
         os.system("python BSCTokenSniper1.2/BSCTokenSniper.py")
     elif value == "2": 
+
         print("c1")
     elif value == "3":
-        print("ce")
+        
+        os.system("python BSCTokenSniper1.1/SpecifiedTokenSniper-Listener/specifiedTokenSniper.py")
+
     else:
         print("Argumento inválido. Informe 1, 2 ou 3")
 
